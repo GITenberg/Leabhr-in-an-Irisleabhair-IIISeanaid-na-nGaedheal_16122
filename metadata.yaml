@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '6496'
     url: http://www.gutenberg.org/2009/agents/6496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16122#Leabhr-in-an-Irisleabhair-IIISeanaid-na-nGaedheal
 gutenberg_issued: '2005-06-23'
 gutenberg_type: Text
 identifiers:
