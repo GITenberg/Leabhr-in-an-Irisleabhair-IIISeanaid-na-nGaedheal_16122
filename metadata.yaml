@@ -1,0 +1,40 @@
+_repo: Leabhr-in-an-Irisleabhair-IIISeanaid-na-nGaedheal_16122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Beirt Fhear
+    gutenberg_agent_id: '6497'
+    url: http://www.gutenberg.org/2009/agents/6497
+  - agent_name: Chonán Maol
+    alias: Chonan Maol
+    gutenberg_agent_id: '6495'
+    url: http://www.gutenberg.org/2009/agents/6495
+  - agent_name: Ó Duinnín, An tAthair Pádraig
+    alias: O Duinnin, An tAthair Padraig
+    birthdate: 1860
+    deathdate: 1934
+    gutenberg_agent_id: '6498'
+    url: http://www.gutenberg.org/2009/agents/6498
+    wikipedia: http://en.wikipedia.org/wiki/An_tAthair_P%C3%A1draig_%C3%93_Duinn%C3%ADn
+  - agent_name: Gruagach an Tobair
+    gutenberg_agent_id: '6496'
+    url: http://www.gutenberg.org/2009/agents/6496
+description: ''
+gutenberg_issued: '2005-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16122'
+language: ga
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish language -- Readers'
+- !lcc 'PB'
+title: 'Leabhráin an Irisleabhair—III
+
+  Seanaid na nGaedheal'
+url: http://www.gutenberg.org/ebooks/16122
